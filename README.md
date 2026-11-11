@@ -133,7 +133,7 @@ O sistema considera que candidatos com recursos assistivos próprios (ex: cadeir
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/https://github.com/Eduarda-Borges-Silva/ConectaPCD.git
+git clone https://github.com/Eduarda-Borges-Silva/ConectaPCD.git
 cd ConectaPCD
 ```
 
